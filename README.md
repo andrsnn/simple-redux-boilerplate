@@ -10,15 +10,6 @@ Original Author (forked from: https://github.com/tsaiDavid/simple-redux-boilerpl
 
 ### Overview
 
-*Available Branches:*
-
-*Checkout a branch to start with exactly what you need, explore others to learn how additional features might be implemented!*
-
-| Branch               | Description                             | Status                  |
-|----------------------|-----------------------------------------|-------------------------|
-| `master`             | Basic React, Redux, with DevTools.      | Complete, with SCSS now |
-| `react-router-redux` | Adds 'react-router' and Redux bindings! | In Progress!            |
-
 This is the perfect way to start any React + Redux application - **especially if you're looking for a middle-ground**. Minimize bulk and overhead - and get the exact amount of tools and configuration necessary to hit the ground running!
 
 With educational comments and documentation sprinkled throughout this app, you'll learn and see how all the pieces come together - from Webpack and Babel all the way through React with Redux.
@@ -41,8 +32,6 @@ If you found this helpful, please star/fork/follow me on **[GitHub](https://gith
   - Eslint w/ basic configs
   - Redux DevTools + Logger middleware - easily removable/replaceable based on your needs
 
-##### Optional:
-  - *React Router + bindings (checkout `react-router-redux` branch for more info)*
 
 ***
 
@@ -135,7 +124,7 @@ Learn more here: [AirBnb Style Guide](https://github.com/airbnb/javascript/tree/
 ### Credits
 
 ##### Other Contributors:
- - [@yilenpan](https://github.com/yilenpan) | *working on react-router-redux!*
+ - [@yilenpan](https://github.com/yilenpan) | *worked on react-router-redux!*
 
 >This boilerplate is initially based on [@gaeron's](https://github.com/gaeron) awesome [react-transform-boilerplate](https://github.com/gaearon/react-transform-boilerplate).
 
